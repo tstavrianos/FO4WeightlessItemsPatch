@@ -1,8 +1,8 @@
 {
-  "Nickname": "FO4WeightlessItemsPatch",
+  "Nickname": "Weightless Items Patcher",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Weightless Items Patcher",
+  "LongDescription": "Sets the weight of all chosen item types to zero.",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": [],
   "TargetedReleases": [
